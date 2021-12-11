@@ -16,6 +16,8 @@ function Feed() {
                 <Suggestions />
             </div>    
             </section>
+            <div>Surya is a lowde</div> 
+
         </main>
     )
 }
